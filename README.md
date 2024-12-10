@@ -1,6 +1,6 @@
 # Nombre del Proyecto
 
-Breve descripción del proyecto y su propósito.
+Breve descripción del proyecto y su propósito. Programación en C++
 
 ## Instalación
 
